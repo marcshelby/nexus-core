@@ -1,2 +1,4 @@
 streamlit
-discord.py
+requests
+yfinance
+pandas
